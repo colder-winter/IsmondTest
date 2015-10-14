@@ -1,4 +1,4 @@
-Git is a verison control system.
+﻿Git is a verison control system.
 Git is free software.
 Git is good!
 
@@ -23,3 +23,5 @@ new分支，加点文字
 
 
 我在dev上工作
+
+I'm on dev
